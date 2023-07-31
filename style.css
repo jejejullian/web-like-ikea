@@ -111,7 +111,7 @@ nav a{
 
 .col img{
     max-width: 100%;
-    height: 100%;
+    max-height: 100%;
 }
 
 .col-1{
@@ -127,10 +127,12 @@ nav a{
     align-items: center; 
     width: 30%;
     font-size: .8rem;
+    margin-right: .4em;
 }
 
 .col-3{
-    width: 38%;
+    width: 40%;
+    margin-right: .4em;
 }
 
 .col-4{
@@ -259,14 +261,6 @@ nav a{
 @media screen and (max-width:450px) {
     html{
         font-size: 50%;
-    }
-
-    .col-3{
-        width: 90%;
-    }
-
-    .col-4{
-        width: 90%;
     }
 
     .nav-list{
