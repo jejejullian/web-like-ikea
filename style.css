@@ -273,5 +273,9 @@ nav a{
         top: 8%;
         z-index: 9999;
     }
+
+    .columns{
+        align-items: center;
+    }
 }
 
