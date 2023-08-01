@@ -19,25 +19,25 @@ window.onscroll = () => {
 const reviews = [
   {
     text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores quod soluta et beatae dignissimos magni? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio officiis hic ratione incidunt, tenetur eaque.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi inventore doloribus voluptates aliquid iure totam, ea amet. Aliquam, consectetur perferendis!",
-    image: "assets/images/box-image1.jpeg",
+    image: "images/box-image1.jpeg",
     nama: "shiva",
     job: "Pejabat",
   },
   {
     text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores quod soluta et beatae dignissimos magni? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio officiis hic ratione incidunt, tenetur eaque.Lorem ipsum dolor sit",
-    image: "assets/images/box-image1.jpeg",
+    image: "images/box-image1.jpeg",
     nama: "susilanto",
     job: "Tiktokers",
   },
   {
     text: "orem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio officiis hic ratione incidunt, tenetur eaque.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi inventore doloribus voluptates aliquid iure totam, ea amet.",
-    image: "assets/images/box-image1.jpeg",
+    image: "images/box-image1.jpeg",
     nama: "kevin",
     job: "Affliator",
   },
   {
     text: "amet consectetur adipisicing elit. Distinctio officiis hic ratione incidunt, tenetur eaque.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi inventore doloribus voluptates aliquid iure totam, ea amet. Aliquam, consectetur perferendis!",
-    image: "assets/images/box-image1.jpeg",
+    image: "images/box-image1.jpeg",
     nama: "Guntur",
     job: "Pemuda Tersesat",
   },
